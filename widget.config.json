@@ -4,14 +4,14 @@
   "entry": "./src/index.tsx",
   "name": {
     "zh-CN": "模板网址预览",
-    "en-US": "模板网址预览"
+    "en-US": "Template Url Preview"
   },
   "icon": "./package_icon.png",
   "cover": "./cover.png",
   "authorIcon": "./author_icon.png",
   "description": {
-    "zh-CN": "模板网址预览 的描述",
-    "en-US": "模板网址预览 description"
+    "zh-CN": "通过指定的若干字段值构建网址并预览。",
+    "en-US": "Build the URL from several specified field values and preview it."
   },
   "sandbox": true
 }
