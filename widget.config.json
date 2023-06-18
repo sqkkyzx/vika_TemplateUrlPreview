@@ -1,0 +1,17 @@
+{
+  "packageId": "wpktSlQHdKMnL",
+  "spaceId": "spcDg3AEqfc8r",
+  "entry": "./src/index.tsx",
+  "name": {
+    "zh-CN": "模板网址预览",
+    "en-US": "模板网址预览"
+  },
+  "icon": "./package_icon.png",
+  "cover": "./cover.png",
+  "authorIcon": "./author_icon.png",
+  "description": {
+    "zh-CN": "模板网址预览 的描述",
+    "en-US": "模板网址预览 description"
+  },
+  "sandbox": true
+}
